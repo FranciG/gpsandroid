@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gpstest</string>
+    <string name="gps_data">GPS data</string>
+    <string name="get_gps_data">Get GPS data</string>
+</resources>
